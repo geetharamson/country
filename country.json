@@ -1,0 +1,491 @@
+{
+    "description": "List of few Countries and its details",
+    "countries": [
+        {
+            "name": "Ireland",
+            "capital": "Dublin",
+            "population": 4982900,
+            "regions": [
+              {
+                "name": "North",
+                "counties": ["Donegal", "Leitrim", "Sligo"]
+              },
+              {
+                "name": "East",
+                "counties": ["Dublin", "Kildare", "Louth", "Meath", "Wicklow"]
+              },
+              {
+                "name": "South",
+                "counties": ["Cork", "Kerry", "Limerick", "Tipperary", "Waterford"]
+              },
+              {
+                "name": "West",
+                "counties": ["Galway", "Mayo", "Roscommon"]
+              }
+            ]
+          },
+      {
+        "name": "United States",
+        "capital": "Washington, D.C.",
+        "population": 331002651,
+        "regions": [
+          {
+            "name": "Northeast",
+            "states": ["New York", "Pennsylvania", "Massachusetts"]
+          },
+          {
+            "name": "Midwest",
+            "states": ["Ohio", "Illinois", "Michigan"]
+          }
+        ]
+      },
+      {
+        "name": "China",
+        "capital": "Beijing",
+        "population": 1444216107,
+        "regions": [
+          {
+            "name": "North",
+            "provinces": ["Hebei", "Shandong", "Liaoning"]
+          },
+          {
+            "name": "South",
+            "provinces": ["Guangdong", "Fujian", "Hainan"]
+          }
+        ]
+      },
+      {
+        "name": "India",
+        "capital": "New Delhi",
+        "population": 1380004385,
+        "regions": [
+          {
+            "name": "North",
+            "states": ["Uttar Pradesh", "Haryana", "Rajasthan"]
+          },
+          {
+            "name": "South",
+            "states": ["Tamil Nadu", "Karnataka", "Kerala"]
+          }
+        ]
+      },
+ 
+   {
+    "name": "Germany",
+    "capital": "Berlin",
+    "population": 83190556,
+    "regions": [
+      {
+        "name": "North",
+        "states": ["Bremen", "Hamburg", "Lower Saxony", "Schleswig-Holstein"]
+      },
+      {
+        "name": "East",
+        "states": ["Berlin", "Saxony", "Thuringia"]
+      },
+      {
+        "name": "South",
+        "states": ["Bavaria", "Baden-Württemberg"]
+      },
+      {
+        "name": "West",
+        "states": ["North Rhine-Westphalia", "Rhineland-Palatinate", "Saarland"]
+      }
+    ]
+  },
+  {
+    "name": "France",
+    "capital": "Paris",
+    "population": 67413000,
+    "regions": [
+      {
+        "name": "North",
+        "departments": ["Nord", "Pas-de-Calais", "Aisne", "Oise", "Somme"]
+      },
+      {
+        "name": "East",
+        "departments": ["Ardennes", "Aube", "Marne", "Haute-Marne", "Meuse", "Moselle", "Bas-Rhin", "Vosges"]
+      },
+      {
+        "name": "South",
+        "departments": ["Ariège", "Aude", "Aveyron", "Gard", "Haute-Garonne", "Gers", "Lot"]
+      },
+      {
+        "name": "West",
+        "departments": ["Charente", "Deux-Sèvres", "Gironde", "Landes", "Lot-et-Garonne", "Vienne", "Haute-Vienne"]
+      }
+    ]
+  },
+  
+    {
+      "name": "Australia",
+      "capital": "Canberra",
+      "population": 25778800,
+      "regions": [
+        {
+          "name": "North",
+          "states": ["Queensland", "Northern Territory"]
+        },
+        {
+          "name": "East",
+          "states": ["New South Wales", "Victoria", "Tasmania"]
+        },
+        {
+          "name": "West",
+          "states": ["Western Australia"]
+        },
+        {
+          "name": "South",
+          "states": ["South Australia"]
+        }
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "capital": "Hanoi",
+      "population": 98168829,
+      "regions": [
+        {
+          "name": "North",
+          "provinces": ["Hà Giang", "Cao Bằng", "Bắc Kạn", "Lạng Sơn", "Tuyên Quang", "Thái Nguyên", "Phú Thọ", "Bắc Giang", "Quảng Ninh", "Hải Dương", "Hải Phòng", "Hưng Yên", "Hà Nam", "Nam Định", "Ninh Bình", "Thái Bình", "Vĩnh Phúc", "Bắc Ninh", "Hà Nội"]
+        },
+        {
+          "name": "Central",
+          "provinces": ["Hà Tĩnh", "Quảng Bình", "Quảng Trị", "Thừa Thiên Huế", "Đà Nẵng", "Quảng Nam", "Quảng Ngãi", "Bình Định", "Phú Yên", "Khánh Hòa", "Ninh Thuận", "Bình Thuận"]
+        },
+        {
+          "name": "South",
+          "provinces": ["Kon Tum", "Gia Lai", "Đắk Lắk", "Đắk Nông", "Lâm Đồng", "Bình Phước", "Tây Ninh", "Bình Dương", "Đồng Nai", "Bà Rịa–Vũng Tàu", "Hồ Chí Minh City", "Long An", "Tiền Giang", "Bến Tre", "Trà Vinh", "Vĩnh Long", "Đồng Tháp", "An Giang", "Kiên Giang", "Cần Thơ", "Hậu Giang", "Sóc Trăng", "Bạc Liêu", "Cà Mau"]
+        }
+      ]
+    },
+    {
+      "name": "Malta",
+      "capital": "Valletta",
+      "population": 514564,
+      "regions": [
+        {
+          "name": "Gozo",
+          "localities": ["Victoria", "Xagħra", "Marsalforn", "Nadur"]
+        },
+        {
+          "name": "Malta",
+          "localities": ["Valletta", "Sliema", "St. Julian's", "Mdina", "Rabat", "Marsaxlokk"]
+        }
+      ]
+    },
+    {
+      "name": "Poland",
+      "capital": "Warsaw",
+      "population": 37950802,
+      "regions": [
+        {
+          "name": "North",
+          "voivodeships": ["Pomeranian", "Warmian-Masurian", "Podlaskie"]
+        },
+        {
+          "name": "East",
+          "voivodeships": ["Lublin", "Podkarpackie", "Świętokrzyskie", "Masovian"]
+        },
+        {
+          "name": "West",
+          "voivodeships": ["Greater Poland", "Lubusz", "Lower Silesian", "Opole"]
+        },
+        {
+          "name": "South",
+          "voivodeships": ["Silesian", "Lesser Poland", "Subcarpathian"]
+        }
+      ]
+    },
+    {
+      "name": "Portugal",
+      "capital": "Lisbon",
+      "population": 10191409,
+      "regions": [
+        {
+          "name": "North",
+          "districts": ["Viana do Castelo", "Braga"]
+        }
+    ]
+    },
+    {
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "population": 29609623,
+    "regions": [
+            {
+              "name": "North",
+              "provinces": ["Bagmati", "Gandaki", "Karnali"]
+            },
+            {
+              "name": "East",
+              "provinces": ["Koshi", "Mechi", "Sagarmatha"]
+            },
+            {
+              "name": "West",
+              "provinces": ["Lumbini", "Bheri", "Rapti"]
+            },
+            {
+              "name": "South",
+              "provinces": ["Janakpur", "Madhesh", "Seti"]
+            }
+          ]
+        },
+            {
+              "name": "Egypt",
+              "capital": "Cairo",
+              "population": 104258327,
+              "regions": [
+                {
+                  "name": "Lower Egypt",
+                  "governorates": ["Alexandria", "Beheira", "Dakahlia", "Damietta", "Gharbia", "Kafr El Sheikh", "Monufia", "Port Said", "Sharqia"]
+                },
+                {
+                  "name": "Upper Egypt",
+                  "governorates": ["Aswan", "Asyut", "Beni Suef", "Faiyum", "Giza", "Minya", "New Valley", "Qena", "Red Sea", "Sohag"]
+                },
+                {
+                  "name": "Sinai Peninsula",
+                  "governorates": ["North Sinai", "South Sinai"]
+                }
+              ]
+            },
+            {
+              "name": "Libya",
+              "capital": "Tripoli",
+              "population": 6871287,
+              "regions": [
+                {
+                  "name": "Cyrenaica",
+                  "districts": ["Benghazi", "Butnan", "Derna", "Jabal al Akhdar", "Jabal al Gharbi", "Marj", "Tobruk"]
+                },
+                {
+                  "name": "Fezzan",
+                  "districts": ["Ghat", "Murzuq", "Sabha", "Wadi al Shatii"]
+                },
+                {
+                  "name": "Tripolitania",
+                  "districts": ["Jafara", "Jebel Nafusa", "Misrata", "Murqub", "Nalut", "Tripoli", "Zawiya"]
+                }
+              ]
+            },
+            {
+              "name": "Morocco",
+              "capital": "Rabat",
+              "population": 37209639,
+              "regions": [
+                {
+                  "name": "North",
+                  "regions": ["Tanger-Tétouan-Al Hoceïma", "Oriental"]
+                },
+                {
+                  "name": "Center",
+                  "regions": ["Fès-Meknès", "Béni Mellal-Khénifra"]
+                },
+                {
+                  "name": "South",
+                  "regions": ["Casablanca-Settat", "Marrakesh-Safi", "Souss-Massa"]
+                }
+              ]
+            },
+            {
+              "name": "Sudan",
+              "capital": "Khartoum",
+              "population": 44909353,
+              "regions": [
+                {
+                  "name": "North",
+                  "states": ["Northern State", "River Nile State", "Red Sea State"]
+                },
+                {
+                  "name": "East",
+                  "states": ["Kassala State", "Gedaref State", "Blue Nile State"]
+                },
+                {
+                  "name": "West",
+                  "states": ["North Darfur State", "West Darfur State", "South Darfur State", "Central Darfur State", "East Darfur State"]
+                },
+                {
+                  "name": "South",
+                  "states": ["White Nile State", "North Kurdufan State", "South Kurdufan State", "West Kurdufan State", "Unity State"]
+                }
+              ]
+            }, 
+
+                {
+                  "name": "Namibia",
+                  "capital": "Windhoek",
+                  "population": 2540905,
+                  "regions": [
+                    {
+                      "name": "North",
+                      "regions": ["Omusati", "Oshana", "Ohangwena", "Oshikoto"]
+                    },
+                    {
+                      "name": "Central",
+                      "regions": ["Khomas", "Hardap", "Karas", "Erongo"]
+                    },
+                    {
+                      "name": "East",
+                      "regions": ["Kavango East", "Kavango West", "Zambezi", "Otjozondjupa"]
+                    },
+                    {
+                      "name": "South",
+                      "regions": ["//Kharas"]
+                    }
+                  ]
+                },
+                {
+                  "name": "South Africa",
+                  "capital": "Pretoria",
+                  "population": 60004100,
+                  "regions": [
+                    {
+                      "name": "Gauteng",
+                      "districts": ["City of Johannesburg", "Sedibeng", "West Rand"]
+                    },
+                    {
+                      "name": "Western Cape",
+                      "districts": ["Central Karoo", "City of Cape Town", "Eden", "West Coast"]
+                    },
+
+                {
+                  "name": "Denmark",
+                  "capital": "Copenhagen",
+                  "population": 5822763,
+                  "regions": [
+                    {
+                      "name": "North Jutland",
+                      "municipalities": [ "Frederikshavn", "Rebild", "Thisted"]
+                    },
+                    {
+                      "name": "Central Jutland",
+                      "municipalities": ["Hedensted", "Herning", "Randers"]
+                    },
+                    {
+                      "name": "Zealand",
+                      "municipalities": ["Faxe", "Greve", "Lejre", "Lolland", "Ringsted"]
+                    }
+                ]
+            },
+        {
+          "name": "Russia",
+          "capital": "Moscow",
+          "population": 144526636,
+          "regions": [
+            {
+              "name": "North",
+              "federal subjects": ["Komi Republic", "Republic of Karelia", "Vologda Oblast"]
+            },
+            {
+              "name": "East",
+              "federal subjects": ["Amur Oblast", "Buryatia",  "Sakha Republic"]
+            },
+            {
+              "name": "West",
+              "federal subjects": ["Kaliningrad Oblast", "Minsk Oblast", "Moscow Oblast", "St. Petersburg"]
+            },
+            {
+              "name": "South",
+              "federal subjects": ["Adygea", "Rostov Oblast", "Volgograd Oblast"]
+            },
+            {
+              "name": "Central",
+              "federal subjects": ["Belgorod Oblast", "Bryansk Oblast"]
+            }
+        ]
+    },
+    {
+        "name": "Canada",
+        "capital": "Ottawa",
+        "population": 38005238,
+        "regions": [
+          {
+            "name": "Atlantic",
+            "provinces": ["Prince Edward Island", "Nova Scotia", "New Brunswick"]
+          },
+          {
+            "name": "Central",
+            "provinces": ["Quebec", "Ontario"]
+          },
+          {
+            "name": "Prairie",
+            "provinces": ["Manitoba", "Saskatchewan", "Alberta"]
+          },
+          {
+            "name": "West Coast",
+            "provinces": ["British Columbia"]
+          }
+        ]
+      },
+      {
+        "name": "Mexico",
+        "capital": "Mexico City",
+        "population": 130262216,
+        "regions": [
+          {
+            "name": "North",
+            "states": ["Baja California", "Chihuahua", "Coahuila"]
+          },
+          {
+            "name": "Central",
+            "states": ["Durango", "Jalisco", "Mexico City"]
+          },
+          {
+            "name": "South",
+            "states": ["Oaxaca", "Chiapas", "Tabasco", "Quintana Roo"]
+          }
+        ]
+      },
+    {
+        "name": "Brazil",
+        "capital": "Brasília",
+        "population": 213993437,
+        "regions": [
+          {
+            "name": "North",
+            "states": ["Acre", "Amazonas", "Roraima", "Tocantins"]
+          },
+          {
+            "name": "Northeast",
+            "states": ["Alagoas", "Bahia", "Rio Grande do Norte", "Sergipe"]
+          },
+          {
+            "name": "Central-West",
+            "states": ["Distrito Federal", "Mato Grosso", "Mato Grosso do Sul"]
+          },
+          {
+            "name": "Southeast",
+            "states": ["Minas Gerais", "Rio de Janeiro", "São Paulo"]
+          },
+          {
+            "name": "South",
+            "states": ["Paraná", "Santa Catarina", "Rio Grande do Sul"]
+          }
+        ]
+      },
+  {
+    "name": "Spain",
+    "capital": "Madrid",
+    "population": 46733038,
+    "regions": [
+      {
+        "name": "North",
+        "autonomous communities": ["Asturias", "Cantabria", "Basque Country", "Navarre"]
+      },
+      {
+        "name": "East",
+        "autonomous communities": ["Catalonia", "Valencia", "Balearic Islands"]
+      },
+      {
+        "name": "South",
+        "autonomous communities": ["Andalusia", "Murcia"]
+      },
+      {
+        "name": "West",
+        "autonomous communities": ["Extremadura", "Castile and León", "Castilla-La Mancha"]
+      }
+    ]
+  }
+    ]
+}
